@@ -5,6 +5,8 @@ Repositório criado para aula de Git e Github do Programa DevStart
 
 #Segundo ajuste do Readme feito aqui com inserção dos principais comandos utilizados na aula.
 
+#Terceiro passo, organizar os itens como lista pra melhor visualização
+
 Readme Aula de Git e Github
 
 Comandos iniciais
