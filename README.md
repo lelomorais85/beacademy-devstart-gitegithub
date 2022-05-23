@@ -1,4 +1,3 @@
-
 # Reame Git e Github
 
 Repositório criado para aula de Git e Github do Programa DevStart
@@ -30,3 +29,16 @@ git commit -m "Mensagem a ser commitada" - Faz o commit com a frase inserida par
 git log - exibe um log com data, hora e autor do commit
 
 git push - comando responsável por enviar os arquivos alterados no git local para o github
+
+
+
+## Autor
+- [@lelomorais85](https://www.github.com/lelomorais85)
+
+## Professor
+- [@rejota23](https://github.com/rejota23)
+
+
+
+
+Ajustes na configuração inicial do Git para usuário e email 
